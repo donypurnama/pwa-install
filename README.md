@@ -172,6 +172,8 @@ handlePWAInstallError() {
 
 ## Further reading
 
-[Patterns for Promoting PWA Installation (mobile)](https://developers.google.com/web/fundamentals/app-install-banners/promoting-install-mobile)
+[Is your app installed? `getInstalledRelatedApps()` will tell you!](https://web.dev/get-installed-related-apps/)
 
-[Detect if your Native app is installed from your web site](https://medium.com/dev-channel/detect-if-your-native-app-is-installed-from-your-web-site-2e690b7cb6fb)
+[Detect if your native app is installed from your web site](https://medium.com/dev-channel/detect-if-your-native-app-is-installed-from-your-web-site-2e690b7cb6fb)
+
+[Patterns for promoting PWA installation](https://web.dev/promote-install/)
